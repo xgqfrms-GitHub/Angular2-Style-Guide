@@ -12,10 +12,10 @@ http://www.hirez.io/c/angular-2-preparation/e/episode-2-style-guide-implementati
 There are multiple versions of Angular, and thus there are multiple versions of the guide. Choose your guide appropriately.
 
 ### Angular 1 Style Guide
-[The Angular 1 Style Guide](./a1/README.md).
+[The Angular 1 Style Guide](./a1/readme.md).
 
 ### Angular 2 Style Guide
-[The Angular 2 Style Guide](./a2/README.md).
+[The Angular 2 Style Guide](./a2/readme.md).
 
 ## Angular Team Endorsed
 Special thanks to Igor Minar, lead on the Angular team, for reviewing, contributing feedback, and entrusting me to shepherd this guide.
